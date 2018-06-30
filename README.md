@@ -1,5 +1,4 @@
-# Cancer-Patient-survival-period-Prediction-
-Cancer Patient survival period  Prediction
+# Cancer-Patient-survival-period-Prediction
 This project main aim is predicted the cancer patient that survied After 7 or not after the treament.
 there the two i have done one EdA part and Model Build part
 EDA which clearly say the cause root of cancer with various Aspect 
